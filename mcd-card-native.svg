@@ -32,7 +32,7 @@ text{font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', '
 <g class="fade" style="animation-delay:510ms">
 <circle cx="31" cy="140" r="5" fill="#F2994A"/>
 <text x="45" y="145" font-size="14" class="label">可用积分</text>
-<text x="300" y="145" font-size="14" font-weight="700" text-anchor="end" class="value">9,676.7</text>
+<text x="300" y="145" font-size="14" font-weight="700" text-anchor="end" class="value">9,710.1</text>
 </g>
 <g class="fade" style="animation-delay:630ms">
 <circle cx="31" cy="165" r="5" fill="#8B5E3C"/>
