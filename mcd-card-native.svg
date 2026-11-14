@@ -32,12 +32,12 @@ text{font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', '
 <g class="fade" style="animation-delay:510ms">
 <circle cx="31" cy="140" r="5" fill="#F2994A"/>
 <text x="45" y="145" font-size="14" class="label">可用积分</text>
-<text x="300" y="145" font-size="14" font-weight="700" text-anchor="end" class="value">9,381.6</text>
+<text x="300" y="145" font-size="14" font-weight="700" text-anchor="end" class="value">9,413.6</text>
 </g>
 <g class="fade" style="animation-delay:630ms">
 <circle cx="31" cy="165" r="5" fill="#8B5E3C"/>
 <text x="45" y="170" font-size="14" class="label">可用优惠券</text>
-<text x="300" y="170" font-size="14" font-weight="700" text-anchor="end" class="value">10 张</text>
+<text x="300" y="170" font-size="14" font-weight="700" text-anchor="end" class="value">8 张</text>
 </g>
 <circle cx="410" cy="98" r="40" fill="#C99A06" fill-opacity="0.08" stroke="#C99A06" stroke-opacity="0.2" stroke-width="6"/>
 <circle cx="410" cy="98" r="40" fill="none" stroke="#C99A06" stroke-width="6" stroke-linecap="round" stroke-dasharray="67.02 251.33" transform="rotate(-90 410 98)"/>
@@ -47,7 +47,7 @@ text{font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', '
 <text x="410" y="179" font-size="13" text-anchor="middle" class="emo" letter-spacing="1">🍟🍔🥤🍦</text>
 <text x="410" y="196" font-size="10.5" text-anchor="middle" class="mute">距 🏆 L5 还差 22 XP</text>
 <text x="25" y="210" font-size="12" font-weight="600" class="label">麦门技术栈</text>
-<clipPath id="nt-stack"><rect x="25" y="220" width="445" height="8" rx="4"/></clipPath><g clip-path="url(#nt-stack)"><rect x="25" y="220" width="128.82" height="8" fill="#9AA0A6"/><rect x="153.82" y="220" width="101.49" height="8" fill="#DA291C"/><rect x="255.31" y="220" width="97.59" height="8" fill="#2D9CDB"/><rect x="352.89" y="220" width="89.78" height="8" fill="#FFBC0D"/><rect x="442.68" y="220" width="27.32" height="8" fill="#F2994A"/></g>
-<circle cx="29" cy="241.98" r="4" fill="#9AA0A6"/><text x="37" y="246" font-size="11.5" class="label" >其他 <tspan >29%</tspan></text><circle cx="103.3" cy="241.98" r="4" fill="#DA291C"/><text x="111.3" y="246" font-size="11.5" class="label" >汉堡 <tspan >23%</tspan></text><circle cx="177.6" cy="241.98" r="4" fill="#2D9CDB"/><text x="185.6" y="246" font-size="11.5" class="label" >饮品 <tspan >22%</tspan></text><circle cx="251.9" cy="241.98" r="4" fill="#FFBC0D"/><text x="259.9" y="246" font-size="11.5" class="label" >小食 <tspan >20%</tspan></text><circle cx="326.2" cy="241.98" r="4" fill="#F2994A"/><text x="334.2" y="246" font-size="11.5" class="label" >早餐 <tspan >6.1%</tspan></text>
+<clipPath id="nt-stack"><rect x="25" y="220" width="445" height="8" rx="4"/></clipPath><g clip-path="url(#nt-stack)"><rect x="25" y="220" width="128.22" height="8" fill="#9AA0A6"/><rect x="153.22" y="220" width="101.82" height="8" fill="#DA291C"/><rect x="255.04" y="220" width="98.05" height="8" fill="#2D9CDB"/><rect x="353.09" y="220" width="90.51" height="8" fill="#FFBC0D"/><rect x="443.6" y="220" width="26.4" height="8" fill="#F2994A"/></g>
+<circle cx="29" cy="241.98" r="4" fill="#9AA0A6"/><text x="37" y="246" font-size="11.5" class="label" >其他 <tspan >29%</tspan></text><circle cx="103.3" cy="241.98" r="4" fill="#DA291C"/><text x="111.3" y="246" font-size="11.5" class="label" >汉堡 <tspan >23%</tspan></text><circle cx="177.6" cy="241.98" r="4" fill="#2D9CDB"/><text x="185.6" y="246" font-size="11.5" class="label" >饮品 <tspan >22%</tspan></text><circle cx="251.9" cy="241.98" r="4" fill="#FFBC0D"/><text x="259.9" y="246" font-size="11.5" class="label" >小食 <tspan >20%</tspan></text><circle cx="326.2" cy="241.98" r="4" fill="#F2994A"/><text x="334.2" y="246" font-size="11.5" class="label" >早餐 <tspan >5.9%</tspan></text>
 <text x="470" y="262" font-size="9.5" text-anchor="end" class="mute">数据源 麦当劳 MCP · 粉丝自制，非官方</text>
 </svg>
